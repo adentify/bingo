@@ -1,10 +1,11 @@
 # bingo
-Web Based Bingo Number Calling System
+Barebones Web Based Bingo Number Calling System (HTML/CSS/JS)
 
 A simple barebones template that randomly calls bingo numbers and populates a table to show which numbers have been called
 Based on 90 ball UK bingo
 
 **ToDo:**
+- make table of called numbers display properly on mobile devices in portrait mode (stop using <TABLE> for layout)
 - last called number should be different colour to other called numbers
 - build an auto calling feature so that numbers are called automatically ever _n_ seconds.
 - config.php - friendly front end to edit the game parameters (auto call on/off, speed of number calls, audio on/off, 
