@@ -18,6 +18,7 @@ Based on 90 ball UK bingo
   - ...
   - col9 - 80-90 (11 numbers)
 - NB: col1 can choose from 9 numbers (0-9), all other columns apart from col9 can choose from 10 numbers (n0-n9), col9 can choose from 11 numbers (80-90)
+Example ticket layout: ![image](https://user-images.githubusercontent.com/1849728/112735432-caa00e80-8f43-11eb-9c71-a8e2739822d3.png)
 
 
 **ToDo: Misc**
